@@ -1,0 +1,3 @@
+MONGO_URL=mongodb://localhost:27017
+DB_NAME=smartcampus
+SECRET_KEY=d9d4b282cf5ef96ef7a93985a35032a66ee90ab819bb1b1493c1959497a10331
